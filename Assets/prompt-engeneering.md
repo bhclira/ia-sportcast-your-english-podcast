@@ -42,6 +42,8 @@ Para a criação do script do podcast, os prompts foram direcionados para:
   - um entrevistador, jornalista chamada Geovana Paes;
   - um convidado, professor de educação física, chamado Breno Henrique;
 - Duraçao do podcast: 3 minutos aproximadamente;
+- "adicione o trecho selecionado em uma seção denominada "Script" desse markdown. coloque a seção após a seção "participantes". formate seu conteúdo em formato de diálogo para que fique agradável à leitura."
+- "Traduza esse diálogo para o inglês, se certifique de que um aluno de nível intermediário consiga ler. e acrescente o resultado numa seção após a seção "Script Base."
 
 ### Refinamento do script
 
