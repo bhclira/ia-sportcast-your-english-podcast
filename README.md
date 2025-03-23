@@ -18,6 +18,16 @@ Os participantes foram desafiados a:
 - Submeter à plataforma Google Classroom do Senac Idiomas
 - Apresentar em sala de aula o diálogo em forma de PodCast em data fixada.
 
+## Passo a Passo do Projeto
+- [x] Reunir equipe para discutir projeto.
+- [x] Escolher um tema para o podcast.
+- [x] Definir o público-alvo.
+- [x] Criar personagens (atores) que participarão do diálogo.
+- [x] Elaborar um script que simule uma entrevista em um podcast.
+- [ ] Gravar o podcast utilizando a ferramenta Spotify for Creators.
+- [ ] Submeter o arquivo de áudio à plataforma Google Classroom do Senac Idiomas.
+- [ ] Apresentar o podcast em sala de aula na data fixada.
+
 ## Estrutura do Script
 O script do podcast foi desenvolvido com a seguinte estrutura:
 1. **Abertura**: Uma saudação inicial para dar boas-vindas aos ouvintes.

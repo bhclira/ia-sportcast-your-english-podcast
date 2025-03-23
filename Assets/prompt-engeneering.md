@@ -19,7 +19,8 @@ Nesta seção, foram utilizados prompts para estruturar e redigir o README do pr
 - "O grupo dos participantes do trabalho é composto por 2 integrantes de nome: Breno Castro e Geovana Paes."
 - "Neste projeto em grupo, os participantes devem elaborar um PodCast Fictício com um tema escolhido pelos mesmos, definir o público alvo, definir os atores que estão presentes no diálogo com base no tema escolhido."
 - "Depois disso, os integrantes do grupo devem elaborar um script que simule uma conversa entre os atores que simule uma entrevista em um podcast qualquer. Esse script deve conter:Uma abertura de boas vindas, Uma introdução dos participantes e suas credenciais, Uma parte para desenvolver o tema, Uma parte que entregue um desfecho como uma mensagem de incentivo para os ouvintes do podcast."
-- "Por fim, ressalte que a estrutura do repositório contém a estrutura do projeto, dados dos participantes, arquivos com os prompts utilizados para confeccionar o artefato podcast e um readme explicando o que foi solicitado pelo SENAC Pernambuco."
+- "Ressalte que a estrutura do repositório contém a estrutura do projeto, dados dos participantes, arquivos com os prompts utilizados para confeccionar o artefato podcast e um readme explicando o que foi solicitado pelo SENAC Pernambuco."
+- "Acrescente mais uma seção, logo após a seção participantes. Essa seção deve conter um passo a passo do projeto em formato de check box."
 
 ## 2. Confecção do Script do Podcast
 Para a criação do script do podcast, os prompts foram direcionados para:
